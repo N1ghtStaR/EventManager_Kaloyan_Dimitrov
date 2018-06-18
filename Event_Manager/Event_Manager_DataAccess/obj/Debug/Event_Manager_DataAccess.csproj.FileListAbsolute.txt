@@ -1,0 +1,30 @@
+C:\Users\Moonshine\source\repos\Event_Manager\Event_Manager_DataAccess\bin\Debug\Event_Manager_DataAccess.dll.config
+C:\Users\Moonshine\source\repos\Event_Manager\Event_Manager_DataAccess\bin\Debug\Event_Manager_DataAccess.dll
+C:\Users\Moonshine\source\repos\Event_Manager\Event_Manager_DataAccess\bin\Debug\Event_Manager_DataAccess.pdb
+C:\Users\Moonshine\source\repos\Event_Manager\Event_Manager_DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Moonshine\source\repos\Event_Manager\Event_Manager_DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Moonshine\source\repos\Event_Manager\Event_Manager_DataAccess\bin\Debug\Event_Manager_DB.dll
+C:\Users\Moonshine\source\repos\Event_Manager\Event_Manager_DataAccess\bin\Debug\Event_Manager_DB.pdb
+C:\Users\Moonshine\source\repos\Event_Manager\Event_Manager_DataAccess\bin\Debug\Event_Manager_DB.dll.config
+C:\Users\Moonshine\source\repos\Event_Manager\Event_Manager_DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Moonshine\source\repos\Event_Manager\Event_Manager_DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Moonshine\source\repos\Event_Manager\Event_Manager_DataAccess\obj\Debug\Event_Manager_DataAccess.csprojAssemblyReference.cache
+C:\Users\Moonshine\source\repos\Event_Manager\Event_Manager_DataAccess\obj\Debug\Event_Manager_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Moonshine\source\repos\Event_Manager\Event_Manager_DataAccess\obj\Debug\Event_Manager_DataAccess.csproj.CopyComplete
+C:\Users\Moonshine\source\repos\Event_Manager\Event_Manager_DataAccess\obj\Debug\Event_Manager_DataAccess.dll
+C:\Users\Moonshine\source\repos\Event_Manager\Event_Manager_DataAccess\obj\Debug\Event_Manager_DataAccess.pdb
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DataAccess\bin\Debug\Event_Manager_DataAccess.dll.config
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DataAccess\bin\Debug\Event_Manager_DataAccess.dll
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DataAccess\bin\Debug\Event_Manager_DataAccess.pdb
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DataAccess\bin\Debug\EntityFramework.dll
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DataAccess\bin\Debug\Event_Manager_DB.dll
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DataAccess\bin\Debug\Event_Manager_DB.pdb
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DataAccess\bin\Debug\Event_Manager_DB.dll.config
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DataAccess\bin\Debug\EntityFramework.xml
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DataAccess\obj\Debug\Event_Manager_DataAccess.csprojAssemblyReference.cache
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DataAccess\obj\Debug\Event_Manager_DataAccess.csproj.CoreCompileInputs.cache
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DataAccess\obj\Debug\Event_Manager_DataAccess.csproj.CopyComplete
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DataAccess\obj\Debug\Event_Manager_DataAccess.dll
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DataAccess\obj\Debug\Event_Manager_DataAccess.pdb

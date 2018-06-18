@@ -1,0 +1,29 @@
+c:\users\moonshine\source\repos\Event_Manager\Event_Manager_DB\bin\Debug\Event_Manager_DB.dll.config
+c:\users\moonshine\source\repos\Event_Manager\Event_Manager_DB\bin\Debug\Event_Manager_DB.dll
+c:\users\moonshine\source\repos\Event_Manager\Event_Manager_DB\bin\Debug\Event_Manager_DB.pdb
+c:\users\moonshine\source\repos\Event_Manager\Event_Manager_DB\bin\Debug\EntityFramework.dll
+c:\users\moonshine\source\repos\Event_Manager\Event_Manager_DB\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\moonshine\source\repos\Event_Manager\Event_Manager_DB\bin\Debug\EntityFramework.xml
+c:\users\moonshine\source\repos\Event_Manager\Event_Manager_DB\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\moonshine\source\repos\Event_Manager\Event_Manager_DB\obj\Debug\Event_Manager_DB.csproj.CoreCompileInputs.cache
+c:\users\moonshine\source\repos\Event_Manager\Event_Manager_DB\obj\Debug\Event_Manager_DB.csproj.CopyComplete
+c:\users\moonshine\source\repos\Event_Manager\Event_Manager_DB\obj\Debug\Event_Manager_DB.dll
+c:\users\moonshine\source\repos\Event_Manager\Event_Manager_DB\obj\Debug\Event_Manager_DB.pdb
+c:\users\moonshine\source\repos\Event_Manager\Event_Manager_DB\obj\Debug\Event_Manager_DB.csprojAssemblyReference.cache
+c:\users\moonshine\source\repos\Event_Manager\Event_Manager_DB\obj\Debug\Event_Manager_DB.Migrations.Initial.resources
+c:\users\moonshine\source\repos\Event_Manager\Event_Manager_DB\obj\Debug\Event_Manager_DB.csproj.GenerateResource.cache
+C:\Users\Moonshine\source\repos\Event_Manager\Event_Manager_DB\obj\Debug\Event_Manager_DB.Migrations.a.resources
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DB\bin\Debug\Event_Manager_DB.dll.config
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DB\bin\Debug\Event_Manager_DB.dll
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DB\bin\Debug\Event_Manager_DB.pdb
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DB\bin\Debug\EntityFramework.dll
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DB\bin\Debug\EntityFramework.SqlServer.dll
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DB\bin\Debug\EntityFramework.xml
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DB\bin\Debug\EntityFramework.SqlServer.xml
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DB\obj\Debug\Event_Manager_DB.csprojAssemblyReference.cache
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DB\obj\Debug\Event_Manager_DB.csproj.CoreCompileInputs.cache
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DB\obj\Debug\Event_Manager_DB.csproj.CopyComplete
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DB\obj\Debug\Event_Manager_DB.dll
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DB\obj\Debug\Event_Manager_DB.pdb
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DB\obj\Debug\Event_Manager_DB.Migrations.Initial.resources
+D:\moonshine\New folder (7)\Event_Manager\Event_Manager_DB\obj\Debug\Event_Manager_DB.csproj.GenerateResource.cache

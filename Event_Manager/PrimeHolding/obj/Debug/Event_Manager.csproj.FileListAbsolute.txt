@@ -1,0 +1,206 @@
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\ApplicationInsights.config
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\PrimeHolding.dll.config
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\PrimeHolding.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\PrimeHolding.pdb
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\csc.exe
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\csc.exe.config
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\csc.rsp
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\csi.exe
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\csi.exe.config
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\csi.rsp
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.AppContext.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Collections.Immutable.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Console.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.IO.Compression.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.IO.FileSystem.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.IO.Pipes.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Security.AccessControl.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Security.Claims.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Threading.Thread.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.ValueTuple.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Xml.XPath.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\vbc.exe
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\vbc.exe.config
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\vbc.rsp
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\VBCSCompiler.exe
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\roslyn\VBCSCompiler.exe.config
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Antlr3.Runtime.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\EntityFramework.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\EntityFramework.SqlServer.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Microsoft.AI.Web.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Microsoft.AI.WindowsServer.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Microsoft.ApplicationInsights.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Microsoft.Web.Infrastructure.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Newtonsoft.Json.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\System.Web.Helpers.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\System.Web.Mvc.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\System.Web.Optimization.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\System.Web.Razor.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\System.Web.WebPages.Deployment.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\System.Web.WebPages.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\System.Web.WebPages.Razor.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\WebGrease.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\EntityFramework.xml
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\EntityFramework.SqlServer.xml
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\System.Web.Helpers.xml
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\System.Web.Mvc.xml
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\System.Web.Optimization.xml
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\System.Web.Razor.xml
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\System.Web.WebPages.xml
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\System.Web.WebPages.Deployment.xml
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\System.Web.WebPages.Razor.xml
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Newtonsoft.Json.xml
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Antlr3.Runtime.pdb
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\System.Diagnostics.DiagnosticSource.xml
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Microsoft.AI.WindowsServer.xml
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Microsoft.AI.Web.xml
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\obj\Debug\Event_Manager.csprojAssemblyReference.cache
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\obj\Debug\Event_Manager.csproj.CoreCompileInputs.cache
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\obj\Debug\Event_Manager.csproj.CopyComplete
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\obj\Debug\PrimeHolding.dll
+c:\users\moonshine\source\repos\Event_Manager\PrimeHolding\obj\Debug\PrimeHolding.pdb
+C:\Users\Moonshine\source\repos\Event_Manager\PrimeHolding\bin\Event_Manager_DataAccess.dll
+C:\Users\Moonshine\source\repos\Event_Manager\PrimeHolding\bin\Event_Manager_DB.dll
+C:\Users\Moonshine\source\repos\Event_Manager\PrimeHolding\bin\Event_Manager_DataAccess.pdb
+C:\Users\Moonshine\source\repos\Event_Manager\PrimeHolding\bin\Event_Manager_DataAccess.dll.config
+C:\Users\Moonshine\source\repos\Event_Manager\PrimeHolding\bin\Event_Manager_DB.pdb
+C:\Users\Moonshine\source\repos\Event_Manager\PrimeHolding\bin\Event_Manager_DB.dll.config
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\ApplicationInsights.config
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\PrimeHolding.dll.config
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\PrimeHolding.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\PrimeHolding.pdb
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\csc.exe
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\csc.exe.config
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\csc.rsp
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\csi.exe
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\csi.exe.config
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\csi.rsp
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.AppContext.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Collections.Immutable.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Console.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Diagnostics.Process.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.IO.Compression.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.IO.FileSystem.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.IO.Pipes.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Reflection.Metadata.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Security.AccessControl.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Security.Claims.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Security.Principal.Windows.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Threading.Thread.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.ValueTuple.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Xml.XmlDocument.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Xml.XPath.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\vbc.exe
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\vbc.exe.config
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\vbc.rsp
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\VBCSCompiler.exe
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\roslyn\VBCSCompiler.exe.config
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Antlr3.Runtime.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\EntityFramework.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\EntityFramework.SqlServer.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Event_Manager_DataAccess.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Event_Manager_DB.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Microsoft.AI.Agent.Intercept.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Microsoft.AI.DependencyCollector.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Microsoft.AI.Web.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Microsoft.AI.WindowsServer.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Microsoft.ApplicationInsights.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Microsoft.Web.Infrastructure.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Newtonsoft.Json.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\System.Diagnostics.DiagnosticSource.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\System.Web.Helpers.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\System.Web.Mvc.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\System.Web.Optimization.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\System.Web.Razor.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\System.Web.WebPages.Deployment.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\System.Web.WebPages.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\System.Web.WebPages.Razor.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\WebGrease.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Event_Manager_DataAccess.pdb
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Event_Manager_DataAccess.dll.config
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Event_Manager_DB.pdb
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Event_Manager_DB.dll.config
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\EntityFramework.xml
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\EntityFramework.SqlServer.xml
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\System.Web.Helpers.xml
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\System.Web.Mvc.xml
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\System.Web.Optimization.xml
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\System.Web.Razor.xml
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\System.Web.WebPages.xml
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\System.Web.WebPages.Deployment.xml
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\System.Web.WebPages.Razor.xml
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Newtonsoft.Json.xml
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Antlr3.Runtime.pdb
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\System.Diagnostics.DiagnosticSource.xml
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Microsoft.AI.DependencyCollector.xml
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Microsoft.AI.WindowsServer.xml
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Microsoft.AI.Web.xml
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\obj\Debug\Event_Manager.csprojAssemblyReference.cache
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\obj\Debug\Event_Manager.csproj.CoreCompileInputs.cache
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\obj\Debug\Event_Manager.csproj.CopyComplete
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\obj\Debug\PrimeHolding.dll
+D:\moonshine\New folder (7)\Event_Manager\PrimeHolding\obj\Debug\PrimeHolding.pdb
